@@ -7,11 +7,9 @@
 # Table Of Contents
 - [PROJECT GOAL](#PROJECT-GOAL)
 - [Project Motivation](#Project-Motivation)
-- [Requirements Installation](#Requirements-Installation)
 - [File Section](#File-Section)
 - [Plots Used](#Technologies-Used)
-- [License](#License)
-- [Credits](#Credits)
+
 
 <br>
 
@@ -25,11 +23,7 @@ The data here i used is taken from kaggle and the data is from since 1930 to 201
 
 I like Football vaery much, often i used to play and i will see the live telecasted football matches without missing them, so to practice PYTHON and Data Analysis, i have choosen this FIFA World Cup Dataset
 
-# Requirements Installation
 
-**The Code is written in Python 3.7. If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository**
-
-    pip install -r requirements.txt
 <br>
 
 # File Section
@@ -51,5 +45,4 @@ CopyRight 2020 DHEERAJ KUMAR
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 <br>
 
-# Credits
-<a href="https://github.com/sharmaroshan/FIFA-2019-Analysis">Sharma Roshan</a>
+
