@@ -30,7 +30,7 @@ I like Football vaery much, often i used to play and i will see the live telecas
 
 ### FIFA  World Cup Analysis.ipynb
 
-**All EDA Analysis have been implemented with respect to the Dataset with variuos plots**
+**All EDA Analysis have been implemented with respect to the Dataset with variuos plots and also complete analysis with power bi**
 
 <br>
 
@@ -40,7 +40,7 @@ I like Football vaery much, often i used to play and i will see the live telecas
 <br>
 
       
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
 <br>
 
 
