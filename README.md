@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/DheerajKumar97/FIFA-World-Cup-Analysis/blob/master/coverr.jpg)
+
 <br>
 
 # FIFA World Cup Analysis
@@ -40,17 +40,9 @@ I like Football vaery much, often i used to play and i will see the live telecas
 
 <br>
 
-# Libraries Used
 
-![Alt Text](https://github.com/DheerajKumar97/FIFA-World-Cup-Analysis/blob/master/hqdefault.jpg)
-![Alt Text](https://github.com/DheerajKumar97/FIFA-World-Cup-Analysis/blob/master/plotlytutsplus.png)
-![Alt Text](https://github.com/DheerajKumar97/FIFA-World-Cup-Analysis/blob/master/wordcloud.jpeg)
-![Alt Text](https://github.com/DheerajKumar97/FIFA-World-Cup-Analysis/blob/master/matplotlib.png)
-![Alt Text](https://github.com/DheerajKumar97/FIFA-World-Cup-Analysis/blob/master/seaborn.png)
 
-# License
 
-![Alt Text](https://github.com/DheerajKumar97/FIFA-World-Cup-Analysis/blob/master/apache.jpg)
 <br>
 CopyRight 2020 DHEERAJ KUMAR
 
